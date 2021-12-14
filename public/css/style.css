@@ -334,6 +334,10 @@ main {
         margin: 0 5px;
     }
 
+    .banner {
+        margin-top: 148px;
+    }
+
     /*main*/
     .shadow:hover {
         box-shadow: 0px 0px 10px rgb(100, 100, 100);           
@@ -372,7 +376,7 @@ main {
 
 @media (min-width: 796px){
     .banner {
-        margin-top: 168px;
+        margin-top: 167px;
     }
     
     .flex-articles article {
